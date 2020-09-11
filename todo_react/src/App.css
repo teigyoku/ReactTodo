@@ -1,0 +1,75 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: #a39bd2;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 100%;
+    color: #8f8bbd;
+
+}
+
+.list {
+    margin:4rem auto;
+    padding:2rem 3rem 3rem;
+    width: 400px;
+    background: #ffffff;
+    box-shadow:-20px -20px 0px 0px rgba(0, 0, 0, 0.16);
+}
+
+input {
+    border:none;
+    background:#f7f1f1;
+    height: 30px;
+    margin-bottom: 10px;
+    color:#8f8bbd;
+    font-size: 110%;
+}
+
+h3 {
+    text-align: center;
+    font-size: 400%;
+}
+
+button {
+    font-size: 13px!important;
+    height: 30px;
+    line-height: 10px!important;
+    padding: 3px 10px;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: normal;
+    border-radius: 3px;
+    margin: 0 8px 0 3px;
+    border: none;
+    color: #ffffff;
+    background-color: rgba(158, 156, 209, 0.74);
+    cursor: pointer;
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+.todo-cell {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 8%;
+    height: 8%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.taskName {
+    cursor: pointer;
+    font-size: 150%;
+    display: inline;
+}
