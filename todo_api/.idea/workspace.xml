@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edc46192-2319-4f25-96a1-474934f246da" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/todo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2732">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abort</find>
+      <find>css</find>
+      <find>var</find>
+      <find>let</find>
+      <find>值</find>
+      <find>函数</find>
+      <find>time</find>
+      <find>闭包</find>
+      <find>ajax</find>
+      <find>http</find>
+      <find>DOM</find>
+      <find>箭头函数</find>
+      <find>兼容</find>
+      <find>剩余</find>
+      <find>Set</find>
+      <find>react</find>
+      <find>random</find>
+      <find>dataset</find>
+      <find>src</find>
+      <find>轮播图</find>
+      <find>面向对象</find>
+      <find>面向</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api.js" />
+        <option value="$PROJECT_DIR$/todo.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/yarn.lock" />
+        <option value="$PROJECT_DIR$/todo.js" />
+        <option value="$PROJECT_DIR$/../../miao.js" />
+        <option value="$PROJECT_DIR$/../../前端面试大全.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="815" />
+    <option name="width" value="1240" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todo_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\简历\TodoList\todo_api\node_modules\eslint" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.miao.js">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="miao.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../../miao.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.miao.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edc46192-2319-4f25-96a1-474934f246da" name="Default Changelist" comment="" />
+      <created>1592818626771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592818626771</updated>
+      <workItem from="1592818627885" duration="1834000" />
+      <workItem from="1592924631619" duration="1610000" />
+      <workItem from="1592991018028" duration="4622000" />
+      <workItem from="1593074906563" duration="177000" />
+      <workItem from="1593075396256" duration="2119000" />
+      <workItem from="1593263946089" duration="2786000" />
+      <workItem from="1593271837386" duration="526000" />
+      <workItem from="1593333358252" duration="340000" />
+      <workItem from="1593333745153" duration="1586000" />
+      <workItem from="1593336616218" duration="552000" />
+      <workItem from="1593337212036" duration="630000" />
+      <workItem from="1593338460973" duration="2242000" />
+      <workItem from="1593417080672" duration="1275000" />
+      <workItem from="1593529327489" duration="133000" />
+      <workItem from="1593589554178" duration="1060000" />
+      <workItem from="1593605401962" duration="598000" />
+      <workItem from="1593666614119" duration="596000" />
+      <workItem from="1593685231013" duration="1630000" />
+      <workItem from="1593948397513" duration="596000" />
+      <workItem from="1594559535781" duration="589000" />
+      <workItem from="1595078281115" duration="10664000" />
+      <workItem from="1595139979445" duration="17650000" />
+      <workItem from="1595203845256" duration="12021000" />
+      <workItem from="1595322711374" duration="647000" />
+      <workItem from="1595404365064" duration="1388000" />
+      <workItem from="1595482365524" duration="2141000" />
+      <workItem from="1595557659469" duration="1331000" />
+      <workItem from="1599797293020" duration="41000" />
+      <workItem from="1599797379848" duration="776000" />
+      <workItem from="1599826389731" duration="706000" />
+      <workItem from="1599827336480" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73515000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15191546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19519095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2719547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.01981506" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19519095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.04950495" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/kleur/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Todo/todo_api/package.json" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1164" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Todo/todo_api/yarn.lock" />
+    <entry file="file://$PROJECT_DIR$/../../Todo/打开文件夹先读我.js" />
+    <entry file="file://$PROJECT_DIR$/todo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Tencent Files/375931316/FileRecv/前端面试大全.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书6/fe6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="138" column="33" selection-start-line="138" selection-start-column="33" selection-end-line="138" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../miao.js" />
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书15/fe13_todo_v2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书15/预习15.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书10/预习10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书15/fe14_todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24" />
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书7/预习7.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书7/fe7-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321" />
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书7/fe7-1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书7/fe7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1593">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../deepclone.js" />
+    <entry file="file://$PROJECT_DIR$/../../Todo/todo_react/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/../../Todo/todo_react/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/../../Todo/todo_api/todo.js" />
+    <entry file="file://$PROJECT_DIR$/../../Spider/xiaoshuo/app.js" />
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书14/fe13答案.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书13/fe13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书14/fe13_todo_v2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书14/fe13_todo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书12/预习12.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513" />
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书12/fe12_node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801" />
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书16/fe16.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书12/fe12.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo_react/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo_react/src/components/TodoItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../todo_react/src/components/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../vue第一个例子/index.html" />
+    <entry file="file://$PROJECT_DIR$/../todo_react/src/components/Todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../RotationChart/3.js" />
+    <entry file="file://$PROJECT_DIR$/../todo_react/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书10/gua.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书10/fe10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="99" column="37" lean-forward="true" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书10/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../MusicPlayer/MusicPlayer.html" />
+    <entry file="file://$PROJECT_DIR$/../../MusicPlayer/MusicPlayer.css" />
+    <entry file="file://$PROJECT_DIR$/../../MusicPlayer/MusicPlayer.js" />
+    <entry file="file://$PROJECT_DIR$/../../Spider/xiaoshuo/xiaoshuo.js" />
+    <entry file="file://$PROJECT_DIR$/../../前端礼包/前端面试大全.js" />
+    <entry file="file://$PROJECT_DIR$/../../前端面试大全.js" />
+    <entry file="file://$PROJECT_DIR$/../../课程目录.js" />
+    <entry file="file://E:/teigyoku/qianduan/fe/fe上课板书15/fe15.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2732">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
